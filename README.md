@@ -1,5 +1,5 @@
 # osquery-http
-http endpoint for [osqueryi](https://github.com/facebook/osquery)
+http endpoint for [osquery](https://github.com/facebook/osquery)
 
 ## Requirements
 
